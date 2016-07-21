@@ -1,0 +1,23 @@
+body{
+  background-color: wheat;
+  text-align: center;
+
+}
+
+#map{
+  height: 500px;
+  width: 500px;
+  margin: auto;
+  border: 5px solid;
+  box-shadow: 10px 10px 45px black;
+}
+
+#countries{
+  margin: auto;
+}
+h4{
+  display: inline;
+}
+h5{
+  display: inline;
+}
